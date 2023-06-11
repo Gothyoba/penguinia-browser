@@ -10,4 +10,4 @@
 
 ## 0.1.0 (planned)
 
-- Have the game fully ported
+- Have the game mostly ported (should include text and storyline, formatting can be extended later)
