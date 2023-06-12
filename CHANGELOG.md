@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.0.0 (planned)
+## 0.0.0, 12 June 2023
 
-- Earliest version with actual code in it (not necessariliy interactive)
+- Added placeholder page
 
 ### 0.0.1 (planned)
 
