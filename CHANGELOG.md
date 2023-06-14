@@ -8,7 +8,7 @@
 
 - Aligned all text and images on the placeholder page towards the center
 - Added logo
-- CHnaged font to Helvetica
+- Switched font to Helvetica
 - Add a limited grid to move around with
 
 ## 0.1.0 (planned)
