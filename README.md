@@ -4,4 +4,6 @@ This will be an official browser port for Penguinia. Currently, this project has
 
 Original Game: https://github.com/Gothyoba/penguinia
 
+(Future) (spoilers) Encyclopedia: https://Gothyoba.github.io
+
 ![alt text](https://raw.githubusercontent.com/Gothyoba/penguinia-browser/main/images/logo.png)
